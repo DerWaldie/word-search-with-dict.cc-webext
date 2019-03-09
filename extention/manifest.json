@@ -1,0 +1,29 @@
+{
+    "manifest_version": 2,
+    "version": "0.3",
+  
+    "name": "__MSG_extension_name__",
+    "author": "Julius Rummel",
+    "description": "__MSG_extension_description__",
+    "default_locale": "en",
+    
+    "icons": {
+      "48": "icons/icon_48.png",
+      "96": "icons/icon_96.png"
+    },
+
+    "permissions": ["contextMenus"],
+
+    "background": {
+      "scripts": [
+        "background.js"
+      ]
+    },
+  
+    "applications": {
+      "gecko": {
+        "id": "de.julius-rummel.dict-cc-webext",
+        "strict_min_version": "42.0"
+      }
+    }
+  }

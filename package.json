@@ -1,0 +1,7 @@
+{
+  "name": "dict.cc-webext",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Julius Rummel <32172513+DerWaldie@users.noreply.github.com>",
+  "license": "MIT"
+}
