@@ -22,5 +22,3 @@ browser.contextMenus.onClicked.addListener(function(info, tab) {
         }).catch(onError);
     }
 });
-
-
