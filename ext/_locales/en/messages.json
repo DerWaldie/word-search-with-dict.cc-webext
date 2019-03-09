@@ -1,11 +1,11 @@
 {
     "extensionName": {
-        "message": "dict.cc translate",
+        "message": "Word search with dict.cc",
         "description": "name of the extension"
     },
 
     "extensionDescription": {
-        "message": "Search words with dict.cc from the context menu",
+        "message": "Search unknown words easily with just one click.",
         "description": "description of the extension"
     },
 

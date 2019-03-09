@@ -1,11 +1,11 @@
 {
     "extensionName": {
-        "message": "Nachschlagen mit dict.cc",
+        "message": "Wörtersuche mit dict.cc",
         "description": "name of the extension"
     },
     
     "extensionDescription": {
-        "message": "Übersetzen Sie unbekannte Wörter mit dict.cc direkt aus dem Kontext Menü",
+        "message": "Schlagen Sie unbekannte Wörter mit nur einem Klick nach.",
         "description": "description of the extension"
     },
 
