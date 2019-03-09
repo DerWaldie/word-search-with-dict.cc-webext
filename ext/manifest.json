@@ -1,15 +1,15 @@
 {
     "manifest_version": 2,
-    "version": "0.3",
+    "version": "0.1",
   
-    "name": "__MSG_extension_name__",
+    "name": "__MSG_extensionName__",
     "author": "Julius Rummel",
     "description": "__MSG_extension_description__",
     "default_locale": "en",
-    
+
     "icons": {
-      "48": "icons/icon_48.png",
-      "96": "icons/icon_96.png"
+      "48": "icons/icon-48.png",
+      "96": "icons/icon-96.png"
     },
 
     "permissions": ["contextMenus"],
@@ -19,11 +19,10 @@
         "background.js"
       ]
     },
-  
-    "applications": {
+
+    "browser_specific_settings": {
       "gecko": {
-        "id": "de.julius-rummel.dict-cc-webext",
-        "strict_min_version": "42.0"
+        "strict_min_version": "48"
       }
     }
   }
