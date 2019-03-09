@@ -1,1 +1,1 @@
-# dict.cc context search extension
+# Word search with dict.cc webext
