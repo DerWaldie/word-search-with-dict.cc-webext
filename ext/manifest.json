@@ -12,7 +12,9 @@
       "96": "icons/icon-96.png"
     },
 
-    "permissions": ["contextMenus"],
+    "permissions": [
+      "contextMenus"
+    ],
 
     "background": {
       "scripts": [
@@ -22,7 +24,7 @@
 
     "browser_specific_settings": {
       "gecko": {
-        "strict_min_version": "48"
+        "strict_min_version": "55.0"
       }
     }
   }

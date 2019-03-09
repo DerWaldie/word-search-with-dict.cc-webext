@@ -6,7 +6,8 @@
   "license": "MIT",
   "scripts": {
     "build": "mkdir -p build && ./node_modules/.bin/web-ext build --overwrite-dest -s ext/ -a build/",
-    "clean": "rm -r build/"
+    "clean": "rm -r build/",
+    "lint": "./node_modules/.bin/web-ext lint -s ext/"
   },
   "devDependencies": {
     "web-ext": "^3.0.0"
