@@ -1,16 +1,16 @@
 {
     "extensionName": {
-        "message": "dict.cc suche",
+        "message": "Nachschlagen mit dict.cc",
         "description": "name of the extension"
     },
     
     "extensionDescription": {
-        "message": "Suche Wörter auf dict.cc aus dem Context Menu",
+        "message": "Übersetzen Sie unbekannte Wörter mit dict.cc direkt aus dem Kontext Menü",
         "description": "description of the extension"
     },
 
     "contextMenuTitle": {
-        "message": "'%s' auf dict.cc suchen",
+        "message": "'%s' auf dict.cc nachschlagen",
         "description": "search string in the context menu"
     }
 }
